@@ -1,0 +1,67 @@
+,Family,Suborder,Region,WoS,Sample,Links
+Myotis.daubentonii,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,233,6,2
+Myotis.myotis,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,443,NA,3
+Myotis.nattereri,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,140,2,1
+Myotis.mystacinus,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,76,2,1
+Myotis.brandtii,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,55,1,1
+Myotis.nigricans,Vespertilionidae,Yangochiroptera,America C/S/Carib,59,6,1
+Eptesicus.nilssonii,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,46,1,1
+Nyctalus.noctula,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,192,1,1
+Pipistrellus.pipistrellus,Vespertilionidae,Yangochiroptera,Europe-Asia C/E,506,36,2
+Tylonycteris.pachypus,Vespertilionidae,Yangochiroptera,Asia S/E/SE,15,1,1
+Corynorhinus.townsendii,Vespertilionidae,Yangochiroptera,America N,52,1,1
+Rhinolophus.pearsonii,Rhinolophidae,Yinpterochiroptera,Asia S/E/SE,2,1,1
+Rhinolophus.borneensis,Rhinolophidae,Yinpterochiroptera,Asia S/E/SE,1,5,7
+Rhinolophus.sinicus,Rhinolophidae,Yinpterochiroptera,Asia S/E/SE,18,7,2
+Rhinolophus.acuminatus,Rhinolophidae,Yinpterochiroptera,Asia S/E/SE,2,17,2
+Rhinolophus.landeri,Rhinolophidae,Yinpterochiroptera,Africa,4,18,2
+Hipposideros.gigas,Hipposideridae,Yinpterochiroptera,Africa,16,4,1
+Hipposideros.diadema,Hipposideridae,Yinpterochiroptera,Asia S/E/SE,12,1,1
+Hipposideros.larvatus,Hipposideridae,Yinpterochiroptera,Asia S/E/SE,18,32,7
+Triaenops.persicus,Hipposideridae,Yinpterochiroptera,Africa,7,8,1
+Megaderma.lyra,Megadermatidae,Yinpterochiroptera,Asia S/E/SE,123,3,2
+Rousettus.aegyptiacus,Pteropodidae,Yinpterochiroptera,Africa,251,105,1
+Micropteropus.pusillus,Pteropodidae,Yinpterochiroptera,Africa,3,11,1
+Epomophorus.gambianus,Pteropodidae,Yinpterochiroptera,Africa,8,53,2
+Pteropus.hypomelanus,Pteropodidae,Yinpterochiroptera,Asia S/E/SE,41,2,2
+Ptenochirus.jagori,Pteropodidae,Yinpterochiroptera,Asia S/E/SE,8,1,1
+Megaerops.niphanae,Pteropodidae,Yinpterochiroptera,Asia S/E/SE,1,2,1
+Eidolon.helvum,Pteropodidae,Yinpterochiroptera,Africa,100,383,35
+Lophostoma.silvicolum,Phyllostomidae,Yangochiroptera,America C/S/Carib,19,2,2
+Phyllostomus.hastatus,Phyllostomidae,Yangochiroptera,America C/S/Carib,94,17,7
+Carollia.perspicillata,Phyllostomidae,Yangochiroptera,America C/S/Carib,353,49,6
+Glossophaga.soricina,Phyllostomidae,Yangochiroptera,America C/S/Carib,216,18,3
+Monophyllus.redmani,Phyllostomidae,Yangochiroptera,America C/S/Carib,17,20,4
+Brachyphylla.cavernarum,Phyllostomidae,Yangochiroptera,America C/S/Carib,14,2,1
+Sturnira.lilium,Phyllostomidae,Yangochiroptera,America C/S/Carib,126,20,6
+Artibeus.toltecus,Phyllostomidae,Yangochiroptera,America C/S/Carib,2,1,1
+Artibeus.planirostris,Phyllostomidae,Yangochiroptera,America C/S/Carib,39,16,2
+Artibeus.obscurus,Phyllostomidae,Yangochiroptera,America C/S/Carib,19,10,1
+Artibeus.lituratus,Phyllostomidae,Yangochiroptera,America C/S/Carib,157,13,5
+Artibeus.jamaicensis,Phyllostomidae,Yangochiroptera,America C/S/Carib,226,19,2
+Vampyressa.bidens,Phyllostomidae,Yangochiroptera,America C/S/Carib,2,3,1
+Micronycteris.microtis,Phyllostomidae,Phyllostomidae,America C/S/Carib,17,3,2
+Phyllonycteris.poeyi,Phyllostomidae,Yangochiroptera,America C/S/Carib,7,1,1
+Macrotus.waterhousii,Phyllostomidae,Yangochiroptera,America C/S/Carib,22,2,2
+Desmodus.rotundus,Phyllostomidae,Yangochiroptera,America C/S/Carib,376,50,10
+Diaemus.youngi,Phyllostomidae,Yangochiroptera,America C/S/Carib,22,1,1
+Pteronotus.davyi,Mormoopidae,Yangochiroptera,America C/S/Carib,19,10,5
+Pteronotus.personatus,Mormoopidae,Yangochiroptera,America C/S/Carib,13,1,1
+Miniopterus.natalensis,Miniopteridae,Yangochiroptera,Africa,14,87,3
+Miniopterus.schreibersii,Miniopteridae,Yangochiroptera,Europe-Asia-Africa,196,14,2
+Coleura.afra,Emballonuridae,Yangochiroptera,Africa,6,9,1
+Noctilio.leporinus,Noctilionidae,Yangochiroptera,America C/S/Carib,64,1,1
+Harpyionycteris.whiteheadi,Pteropodidae,Yinpterochiroptera,Asia S/E/SE,1,1,1
+Hipposideros.armiger,Hipposideridae,Yinpterochiroptera,Asia S/E/SE,42,25,2
+Chaerephon.plicatus,Molossidae,Yangochiroptera,Asia S/E/SE,3,45,4
+Hipposideros.fulvus,Hipposideridae,Yinpterochiroptera,Asia S/E/SE,12,1,1
+Taphozous.melanopogon,Emballonuridae,Yangochiroptera,Asia S/E/SE,28,2,1
+Eidolon.dupreanum,Pteropodidae,Yinpterochiroptera,Africa,10,94,8
+Anoura.geoffroyi,Phyllostomidae,Yangochiroptera,America C/S/Carib,3,6,3
+Sturnira.mordax,Phyllostomidae,Yangochiroptera,America C/S/Carib,6,11,1
+Vampyressa.thyone,Phyllostomidae,Yangochiroptera,America C/S/Carib,3,2,1
+Carollia.castanea,Phyllostomidae,Yangochiroptera,America C/S/Carib,22,20,2
+Platyrrhinus.vittatus,Phyllostomidae,Yangochiroptera,America C/S/Carib,1,2,1
+Carollia.sowelli,Phyllostomidae,Yangochiroptera,America C/S/Carib,15,5,1
+Myotis.keaysi,Vespertilionidae,Yangochiroptera,America C/S/Carib,5,9,4
+Uroderma.bilobatum,Phyllostomidae,Yangochiroptera,America C/S/Carib,33,4,2
